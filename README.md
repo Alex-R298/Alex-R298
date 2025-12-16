@@ -21,7 +21,6 @@ Jetzt baue ich **digitale Lösungen** statt physische Strukturen.
 - Angular 17 Frontend mit Firebase Backend
 - Google Gemini AI Integration für intelligente Rezept-Generierung
 - n8n Workflows für Automation
-- Fully Responsive Design (1440px → 375px)
 - IP-basiertes Quota Management
 
 **Tech:** `Angular 17` `TypeScript` `Firebase` `Gemini AI` `n8n`
