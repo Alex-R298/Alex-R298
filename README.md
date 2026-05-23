@@ -1,82 +1,94 @@
-# Hey, ich bin Alex! 👋
+<h1 align="center">
+  Hey, ich bin Alex! <img src="https://media.giphy.com/media/hvRJCLFzcasr14yMyH/giphy.gif" width="28">
+</h1>
 
-## 🏗️ Von Rohbau zu Code
-**Karrierewechsel:** Vom Bauarbeiter zum Frontend Developer
+<div align="center">
+  <a href="https://github.com/Alex-R298">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Vom+Rohbau+zur+Softwarearchitektur;Python,+Django,+Angular" alt="Typing SVG" />
+  </a>
+</div>
 
-Nach Jahren auf dem Bau habe ich meine Leidenschaft für Code entdeckt. 
-Jetzt baue ich **digitale Lösungen** statt physische Strukturen.
+<br/>
+
+## 🏗️ Vom Bauarbeiter zum Full-Stack Developer
+
+Nach Jahren auf dem Bau habe ich meine Leidenschaft für Code entdeckt. Heute baue ich **digitale Lösungen** statt physischer Gebäude – und zwar vom sicheren Fundament (Backend) bis zur fertigen Fassade (Frontend).
+
+> **Meine Philosophie:** *Ich setze Dinge nicht nur um, ich möchte sie von Grund auf verstehen. Ich baue keine unnötig komplexen Systeme, sondern bevorzuge klare, strukturierte und wartbare Architektur. Dadurch bleiben meine Anwendungen stabil und gut erweiterbar.*
 
 ---
 
 ## 💻 Tech Stack
 
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<div align="center">
+  <br/>
+  <!-- Die Icons passen sich automatisch dem Light/Dark Mode an -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,scss,python,django,firebase,git,vscode,postman&perline=6" alt="Alex Tech Stack" />
+  </a>
+  <br/>
+</div>
+
+<br/>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🍳 [Code-à-Cuisine](https://github.com/DEIN-USERNAME/code-a-cuisine)
-**AI-powered Recipe Generator**
-- Angular 17 Frontend mit Firebase Backend
-- Google Gemini AI Integration für intelligente Rezept-Generierung
-- n8n Workflows für Automation
-- IP-basiertes Quota Management
+### 🎬 [Videoflix Backend](https://github.com/Alex-R298/videoflix-backend)
+**Video-Streaming Plattform API**
+Ein skalierbares Backend für eine Netflix-Klon-Anwendung. Beinhaltet Video-Verarbeitung, asynchrone Tasks und sichere Authentifizierung.
+- **Features:** Token-basierte Auth, Video-Upload & Konvertierung in verschiedene Auflösungen, Passwort-Reset-Flow.
+- **Tech:** `Python` `Django` `Django REST Framework` `Redis` `PostgreSQL`
 
-**Tech:** `Angular 17` `TypeScript` `Firebase` `Gemini AI` `n8n`
+### 💼 [Coderr Backend](https://github.com/Alex-R298/coderr-backend)
+**Freelance-Marktplatz API**
+Das komplette Backend für eine Plattform zur Vermittlung von Dienstleistungen (ähnlich Fiverr).
+- **Features:** Komplexe Datenbankrelationen, Bestell- und Angebotssystem, Review-Logik, User-Profile und Berechtigungsmanagement.
+- **Tech:** `Python` `Django` `REST API` `SQLite/Postgres`
 
----
+### 🍳 [Code-à-Cuisine](https://github.com/Alex-R298/code-a-cuisine)
+**AI-powered Recipe Generator (Full-Stack)**
+- **Features:** Intelligente Rezept-Generierung via Google Gemini AI, Automatisierung über n8n Workflows, IP-basiertes Quota Management.
+- **Tech:** `Angular 17` `TypeScript` `Firebase` `Gemini AI` `n8n`
 
-### 🎮 [Pixel Quest](https://github.com/DEIN-USERNAME/pixel-quest)
-**2D Platformer Game**
-- Pure JavaScript/HTML5 Canvas Game Engine
-- Enemy AI mit Collision Detection
-- Mobile Touch Controls
-- Level System mit Checkpoints
-- Smooth Animations & Parallax Scrolling
-
-**Tech:** `JavaScript` `HTML5 Canvas` `Game Development`
-
----
-
-### 📋 [Join - Task Manager](https://github.com/DEIN-USERNAME/join)
-**Collaborative Task Management Application**
-- Angular 16 + Firebase Real-time Database
-- Drag & Drop Kanban Board
-- User Authentication & Authorization
-- Responsive Design für alle Devices
-
-**Tech:** `Angular 16` `Firebase` `RxJS` `Drag & Drop API`
+### 📋 [Join - Task Manager](https://github.com/Alex-R298/join)
+**Collaborative Kanban Board**
+- **Features:** Drag & Drop Task-Management, User Authentication & Authorization, Real-time Updates, responsives Design.
+- **Tech:** `Angular` `Firebase Real-time DB` `RxJS` `Drag & Drop API`
 
 ---
 
 ## 📊 GitHub Stats
 
-![Alex's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alex-R298&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-R298&layout=compact&theme=radical&hide_border=true)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Alex-R298&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Alex's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-R298&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
+</div>
 
 ---
 
 ## 🎯 Currently Working On
 
-- 🍳 **Code-à-Cuisine** - Recipe Details Page & Cookbook Features
-- 📚 **Job Applications** - Suche nach Junior Frontend Developer Position
-- 🏗️ **Exploring** - PropTech & Construction Software (bringing my background to code!)
+- 🐍 **Backend Mastery** - Vertiefung in komplexe Django-Architekturen & API-Design
+- 🍳 **Code-à-Cuisine** - Cookbook Features & Performance Optimierung
+- 💼 **Open to Work** - Suche nach einer Position als Junior Full-Stack / Backend Developer
 
 ---
 
 ## 💼 About Me
 
-- 🏗️ **Background:** Rohbau/Bauarbeiter → Frontend Developer
-- 🎓 **Ausbildung:** Weiterbildung zum FUllstack Developer
-- 📍 **Location:** Welzheim, Baden-Württemberg, Germany
-- 🎮 **Hobbies:** Game Development, Coding Challenges, Family Time
-- 💡 **Strengths:** Problem-solving, Attention to Detail, Fast Learner
+- 🏗️ **Background:** Rohbau/Bauarbeiter → Full-Stack Developer
+- 🎓 **Ausbildung:** Erfolgreicher Abschluss zum Full-Stack Developer
+- 📍 **Location:** Welzheim, Baden-Württemberg
+- 💡 **Strengths:** Analytisches Problemlösen, Hands-on Mentalität, hoher Qualitätsanspruch
+- 🎮 **Hobbies:** Game Development (Pure JS/Canvas), Coding Challenges, Family Time
 
 ---
 
-## 📫 Let's Connect
+<div align="center">
+  <i>Let's build something awesome together! 🚀</i>
+</div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-reitz-25205a366/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@alex-reitz.de)
